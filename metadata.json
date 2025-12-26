@@ -1,0 +1,8 @@
+{
+  "name": "MotionFlow AI",
+  "description": "High-end AI image-to-video motion transfer engine. Preserve character identity while applying cinematic motion from reference videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
